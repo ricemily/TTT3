@@ -4,10 +4,12 @@ README: TTT3
 
 third attempt using git to store tic tac toe game
 
-Program:  Tick Tack Toe AI 
-Author:  Emily Rice
-Purpose:  demonstrating programming skills to 8th light
+Program: Tick Tack Toe AI                                                                                                         
+Author:  Emily Rice                                                                                                               
+Purpose:  demonstrate programming skills to 8th light                                                                             
 Program File: TTtoe_original
+
+
 
 Description:  The goal of this project is a to create a tic tac toe program with artificial intelligence so that the computer will win whenever possible and at the least tie.  It is written in Java and has a graphical interface.
 
