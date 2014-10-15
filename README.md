@@ -4,7 +4,6 @@ README: TTT3
 
 third attempt using git to store tic tac toe game
 
-
 Program:  Tick Tack Toe AI 
 Author:  Emily Rice
 Purpose:  demonstrating programming skills to 8th light
